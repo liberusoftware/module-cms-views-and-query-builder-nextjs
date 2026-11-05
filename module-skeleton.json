@@ -1,0 +1,15 @@
+{
+  "repository": "module-cms-views-and-query-builder-nextjs",
+  "capabilityKey": "liberusoftware/module-cms-views-and-query-builder",
+  "presentation": "next-react",
+  "package": "@liberusoftware/module-cms-views-and-query-builder-nextjs",
+  "foundation": "module-boilerplate-nextjs",
+  "foundationCommit": "f36c3c383b38a8ebedb343dffa24cf64bec1817b",
+  "canonicalPlan": "projects/cms/nextjs/views-and-query-builder.md",
+  "presentationPlan": "projects/cms/nextjs/views-and-query-builder.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "cms"
+  ]
+}
